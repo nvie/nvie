@@ -1,6 +1,11 @@
 ### Hey 👋
 
-Hi, I’m Vincent!  I’m a software engineer passionate about doing **open source**, **library authoring**, **building products**, **developer tooling** (including **programming language design**), but most of all **simplifying things**.
+Hi, I’m Vincent!  I’m a software engineer who loves:
+
+- Simplifying things
+- Building open source libraries
+- Building products (full stack)
+- Building developer tooling (including programming language design)
 
 🌍 Find me on the web:
 
