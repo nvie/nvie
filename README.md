@@ -3,6 +3,7 @@
 Hi, I’m Vincent!  I’m a software engineer who loves:
 
 - Simplifying things
+- Making things for people who make things
 - Building open source libraries
 - Building products (full stack)
 - Building developer tooling (including programming language design)
