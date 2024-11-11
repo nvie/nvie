@@ -10,6 +10,6 @@ Hi, I’m Vincent!  I’m a software engineer who loves:
 
 🌍 Find me on the web:
 
-- Tweets: [@nvie](https://twitter.com/nvie)
+- Tweets: [@nvie.com](http://nvie.blue) (🦋)
 - Blog: [nvie.com](https://nvie.com)
 - LinkedIn: [vdriessen](https://www.linkedin.com/in/vdriessen/)
